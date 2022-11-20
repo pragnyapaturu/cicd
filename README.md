@@ -1,10 +1,7 @@
 # CICD-GiT-Maven-Jenkins-Docker
 
-HandsOn Tutorial at:
-https://youtu.be/eWtpBiOsny4 
-
-![image](https://user-images.githubusercontent.com/78950897/113699704-5d347080-96ef-11eb-9fb9-91f2a13089e6.png)
-
+Project By      190031347 Pragnya Lasya Paturu
+                190030348 Devireddy Ajay
 
 1. Launch an EC2 instance for Docker host
 
@@ -43,7 +40,6 @@ Manage Jenkins --> Configure system -->  Publish over SSH --> add Docker server 
 6. Create Jenkins job 
 
 A) Source Code Management  
- Repository : https://github.com/khalid-kifayat/CICD-GiT-Maven-Jenkins-Docker.git
  Branches to build : */main  
 
 B) Build
