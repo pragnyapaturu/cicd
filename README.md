@@ -1,4 +1,4 @@
-# CICD-GiT-Maven-Jenkins-Docker
+# CICD
 
 Project By      190031347 Pragnya Lasya Paturu
                 190030348 Devireddy Ajay
